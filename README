@@ -1,0 +1,4 @@
+Simple scraper to download any book listed on 8novels.net site in .txt format later we can easily convert .txt to .pdf
+
+make sure you have module requirements satisfied.
+pip -r requirements.txt
